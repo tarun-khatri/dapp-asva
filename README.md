@@ -26,7 +26,7 @@ Welcome! This repository contains a full **ERC-20 staking dApp**:
 
 ```bash
 # clone the repo
-git clone https://github.com/your-org/staking-asva-assignment.git
+git clone https://github.com/tarun-khatri/dapp-asva
 cd staking-asva-assignment
 
 # install root dev-dependencies (Hardhat etc.)
@@ -138,5 +138,3 @@ frontend/             React + Vite front-end
 4. Update Metamask to the same testnet – the dApp will pick up addresses from the generated `frontend/.env` file.
 
 ---
-
-Enjoy building & staking! 🚀
