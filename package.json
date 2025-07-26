@@ -1,0 +1,22 @@
+{
+  "name": "staking-asva-assignment",
+  "version": "1.0.0",
+  "description": "A production-ready decentralized staking application built on Ethereum with secure smart contracts and a React frontend.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.4.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "hardhat": "^2.26.1"
+  }
+}
